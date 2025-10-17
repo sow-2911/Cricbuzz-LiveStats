@@ -12,20 +12,14 @@ A **Python + Streamlit** project that delivers real-time cricket updates, live s
 * **🛠 CRUD Operations** – Add, update, delete, and view cricket data in real time.
 
 ## ⚙️ Installation & Setup
-### 1️⃣ Clone the Repository
 
-```
-git clone <repository-url>
-cd cricbuzz_livestats
-```
-
-### 2️⃣ Install Dependencies
+### Install Dependencies
 
 ```
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Configure Environment Variables
+### Configure Environment Variables
 Create a `.env` file in the project's root directory and add your database and API credentials. This helps keep your sensitive information secure.
 
 ```
