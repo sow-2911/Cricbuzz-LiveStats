@@ -30,7 +30,7 @@ DB_PASSWORD="your_password"
 DB_NAME="cricket_db"
 ```
 
-### 4️⃣ Run the App
+### Run the App
 
 ```
 streamlit run Main.py
